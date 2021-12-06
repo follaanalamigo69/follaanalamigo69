@@ -1,14 +1,14 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Juan Carlos Ramos breff
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [ ramosbreff@gmail.com ]
   pull_request:
-    branches: [ main ]
+    branches: [ ramosbreff@gmail.com ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,6 +31,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
+        run: |25.761.175-2
           echo Add other actions to build,
           echo test, and deploy your project.
